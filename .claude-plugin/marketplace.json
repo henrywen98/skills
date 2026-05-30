@@ -1,0 +1,19 @@
+{
+  "name": "henrywen98-skills-marketplace",
+  "owner": {
+    "name": "henrywen98",
+    "url": "https://github.com/henrywen98"
+  },
+  "metadata": {
+    "description": "Engineering & productivity skills for Claude Code. Forked from Matt Pocock (github.com/mattpocock/skills).",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "mattpocock-skills",
+      "source": "./",
+      "description": "Skills for Real Engineers — engineering & productivity skills, forked from github.com/mattpocock/skills.",
+      "strict": false
+    }
+  ]
+}
