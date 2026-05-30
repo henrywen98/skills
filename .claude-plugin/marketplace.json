@@ -1,5 +1,5 @@
 {
-  "name": "matt-skill",
+  "name": "matt-skills",
   "owner": {
     "name": "henrywen98",
     "url": "https://github.com/henrywen98"
@@ -10,7 +10,7 @@
   },
   "plugins": [
     {
-      "name": "matt-skill",
+      "name": "matt-skills",
       "source": "./",
       "description": "Skills for Real Engineers — engineering & productivity skills, forked from github.com/mattpocock/skills.",
       "strict": false
